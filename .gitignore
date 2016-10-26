@@ -1,2 +1,4 @@
 MNIST_data/
 cifar-10-batches-py/
+recon_imgs/
+*.pyc
